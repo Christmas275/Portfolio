@@ -1,0 +1,31 @@
+.block{
+    display: flex;
+    justify-content: center;
+
+}
+
+.block_text1{
+    padding: 10px;
+    
+    margin: 500px;
+}
+
+.block_text2{
+    padding: 10px;
+    margin: 500px;
+}
+
+h1 {
+    font-family: Revalia;
+    font-style: normal;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    cursor: pointer;
+    
+}
